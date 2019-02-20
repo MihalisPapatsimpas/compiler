@@ -5,7 +5,7 @@ This project is written in Python and it was developed as an assignment for the 
 
 + Semester of studies: 9th
 + Instructor: [George Manis](http://cs.uoi.gr/~manis/)
-+ Author: Michail Papatsimpas
++ Authors: Michail Papatsimpas, Giorgos Vardakas
 + Grade: A
 
 # Introduction
